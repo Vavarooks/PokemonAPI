@@ -1,0 +1,15 @@
+https://digimon-api.vercel.app/api/digimon
+
+HTTP Method: | Endpoint
+-------------|--------------	
+GET		  | /api/digimon	
+-------------|--------------
+GET		  | /api/digimon/name/:name
+-------------|--------------
+GET		  | /api/digimon/level/:level
+
+_____________________________________________
+
+name - string
+img - string
+level -string
